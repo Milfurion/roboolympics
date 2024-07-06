@@ -6,9 +6,12 @@
         "builder": "*"
     },
     "files": [
-        "main.blocks",
-        "main.ts",
-        "README.md"
+        "README.md",
+        "archery.md",
+        "discus.md",
+        "high_jump.md",
+        "long_jump.md",
+        "flame.md"
     ],
     "testFiles": [],
     "targetVersions": {
