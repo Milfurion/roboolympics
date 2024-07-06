@@ -1,5 +1,5 @@
 {
-    "name": "Untitled",
+    "name": "Ai Cosmic Roboolympics",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -10,14 +10,13 @@
         "main.ts",
         "README.md"
     ],
-    "testFiles": [
-        "test.ts"
-    ],
+    "testFiles": [],
     "targetVersions": {
         "target": "1.7.28",
         "targetId": "minecraft"
     },
     "supportedTargets": [
         "minecraft"
-    ]
+    ],
+    "preferredEditor": "tsprj"
 }
