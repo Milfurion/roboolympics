@@ -4,12 +4,10 @@
 
 Recite agentu da pronađe i uništi sve blokove koji bi mogli biti na putu cilja. Šljunak pada pod utjecajem gravitacije pa možda postoji brz način...
 
-````
-    ``` blocks
-  agent.move(FORWARD, 100)
-````
-
+        ``` blocks
+agent.move(FORWARD, 100)
 agent.destroy(FORWARD)
 
-```
+
+
 ```
