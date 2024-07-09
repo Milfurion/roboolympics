@@ -6,10 +6,8 @@ Znate li izvesti skok u dalj? Samo morate oboriti rekord! Morate proći markacij
 
 
         ``` blocks
-while (true) {
 mobs.applyEffect(SPEED, mobs.target(NEAREST_PLAYER), 10, 5)
 mobs.applyEffect(JUMP_BOOST, mobs.target(NEAREST_PLAYER), 10, 200)
-}
 
 
 
