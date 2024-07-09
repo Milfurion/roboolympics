@@ -42,7 +42,8 @@
         "other/discus_cr.md",
         "other/high_jump_cr.md",
         "other/long_jump_cr.md",
-        "other/flame_cr.md"
+        "other/flame_cr.md",
+	"latvian_flame.md"
     ],
     "testFiles": [],
     "targetVersions": {
