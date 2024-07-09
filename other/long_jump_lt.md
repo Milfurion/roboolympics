@@ -6,10 +6,9 @@ Vai jūs varat veikt garo lēcienu? Tev tikai jāpārspēj rekords! Tev ir jāp�
 
 
         ``` blocks
-while (true) {
 mobs.applyEffect(SPEED, mobs.target(NEAREST_PLAYER), 10, 5)
 mobs.applyEffect(JUMP_BOOST, mobs.target(NEAREST_PLAYER), 10, 200)
-}
+
 
 
 
