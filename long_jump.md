@@ -6,9 +6,9 @@ Can you perform a long jump? You just have to beat the record! You have to pass 
 
 
         ``` blocks
-while (true) {
-    mobs.applyEffect(SPEED, mobs.target(NEAREST_PLAYER), 10, 5)
-    mobs.applyEffect(JUMP_BOOST, mobs.target(NEAREST_PLAYER), 10, 200)
-}
+mobs.applyEffect(SPEED, mobs.target(NEAREST_PLAYER), 10, 5)
+mobs.applyEffect(JUMP_BOOST, mobs.target(NEAREST_PLAYER), 10, 200)
+
+
 
 ```
